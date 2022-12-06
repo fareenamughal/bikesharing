@@ -19,8 +19,7 @@ Tableau has been used to provide visualizations supporting the analysis. Visuali
 The pandas/python code written to convert the trip duration from integer to datetime and then generate the revised trip duration csv file can be found as per link below:
 
 
-[link to dashboard]([LINK GOES HERE "link to dashboard](https://public.tableau.com/views/nyc_citibike_challenge_16702710513840/DesMoinesNycCitibikeTripAnalysis_1?:language=en-US&:display_count=n&:origin=viz_share_link")
-
+[nyc_citibike_challenge in Jupyter notebook]([https://github.com/fareenamughal/bikesharing/blob/e3ad3cb97c6d8d1d74b167c09486ebf94bb6a4d8/NYC_Citibike_Challenge.ipynb]
 
 
 These results/visualizations, dashboard and story can be found in the tableau link below:
