@@ -22,9 +22,7 @@ The pandas/python code written to convert the trip duration from integer to date
 [nyc_citibike_challenge]([NYC_Citibike_Challenge.ipynb](https://github.com/fareenamughal/bikesharing/blob/main/NYC_Citibike_Challenge.ipynb)]
 
 
-These results/visualizations, dashboard and story can be found in the tableau link below:
-
-[nyc_citibike_challenge Des Moines](https://public.tableau.com/views/nyc_citibike_challenge_16702710513840/DesMoinesNycCitibikeTripAnalysis_1?:language=en-US&:display_count=n&:origin=viz_share_link)
+These results/visualizations, dashboard and story can be found in the tableau link below:[nyc_citibike_challenge Des Moines](https://public.tableau.com/views/nyc_citibike_challenge_16702710513840/DesMoinesNycCitibikeTripAnalysis_1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ___
 
