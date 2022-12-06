@@ -16,6 +16,10 @@ ___
 
 Tableau has been used to provide visualizations supporting the analysis. Visualizations are a powerful tool to say a story. The analysis shows that the optimal trip time is approximately 30 minutes, with the largest user group being those of subscribers and males followed by females. The largest number of trips during the weekday occur between 5pm to 7pm and 5am to 8am, whilst during the weekend the trips are spread out between 10am to 7pm. The unknown gender customers exceed the male and female.
 
+These result can be found in the tableau link
+
+[link to dashboard](LINK GOES HERE)
+[link to dashboard](LINK GOES HERE "link to dashboard")
 ___
 
 ## Summary
