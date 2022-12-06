@@ -18,7 +18,7 @@ Tableau has been used to provide visualizations supporting the analysis. Visuali
 
 These result can be found in the tableau link
 
-[Tableau_Public_nyc_citibike_challenge Des Moines](https://public.tableau.com/views/nyc_citibike_challenge_16702710513840/DesMoinesNycCitibikeTripAnalysis_1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[nyc_citibike_challenge Des Moines](https://public.tableau.com/views/nyc_citibike_challenge_16702710513840/DesMoinesNycCitibikeTripAnalysis_1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 [link to dashboard]([LINK GOES HERE "link to dashboard](https://public.tableau.com/views/nyc_citibike_challenge_16702710513840/DesMoinesNycCitibikeTripAnalysis_1?:language=en-US&:display_count=n&:origin=viz_share_link")
