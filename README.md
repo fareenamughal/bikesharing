@@ -21,4 +21,4 @@ ___
 ## Summary
 ___
 
-The analysis indicates that the servicing of the bikes should bne carried out between midnight and 5am. The other subscribers i.e. female subscribers should be provided with some sort of encouragement or incentive to use bike share more often. It migh be worthwhile to generate ideas to attract female subscribers and users. 
+The analysis indicates that the servicing of the bikes should bne carried out between midnight and 6am. The other subscribers i.e. female subscribers should be provided with some sort of encouragement or incentive to use bike share more often. It migh be worthwhile to generate ideas to attract female subscribers and users. 
