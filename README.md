@@ -21,10 +21,21 @@ ___
 ___
 
 Results can be divided into two sections:
+1. Data cleaning/wrangling required before any analysis can be done.
+2. Analysing and generating the visualizations to support the story or to arrive at rational conculsion.
+
+___
+
+### 1. Data cleaning
+___
 
 Below are the results of the data cleaning changing the tripduration to datetime data type and eliminating the index column.
 
 ![Revised NYC Citibike csv](https://github.com/fareenamughal/bikesharing/blob/5082e0ac1987257a5e8bb1d4bd9399a949494e53/Images/screenshot_nyc_citibike_rev_csv_file.png)
+___
+
+### 2. Analysing and generating the visualization using tableau to support the story
+___
 
 
 Tableau has been used to provide visualizations supporting the analysis. Visualizations are a powerful tool to say a story. The analysis shows that the optimal trip time is approximately 30 minutes, with the largest user group being those of subscribers and males followed by females. Males make up approximately 5/8th of the total whilst females make up a 1/4 and unknown gender approximately 1/8th of the total customers. The largest number of trips during the weekday occur between 5pm to 7pm and 5am to 8am, whilst during the weekend the trips are spread out between 10am to 7pm. The unknown gender customers exceed the male and female.
