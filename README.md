@@ -14,7 +14,7 @@ To begin with the data which was provided had to be wrangled. The tripduration h
 
 Thereafter, the data was uploaded into Tableau Public to generate the visualizations. A number of visualizations have been generated of which can be viewed in the Images folder. Three dashboards have been generated using the visualizations, each states a story and make up my Tableau story for thiwhich can be viewed as per link to my tableau dashboard below.
 
-[NYC Citibike Tripdata Aug-2019](https://public.tableau.com/views/NYCCitibikeTripdataAug-2019/Des_Moines_Nyc_Citibike_trip-start-end?:language=en-US&:display_count=n&:origin=viz_share_link)
+[NYC Citibike Tripdata Aug-2019] (https://github.com/fareenamughal/bikesharing/blob/10b5c10cb719578adf8dcd124ddd7c60cb278cc4/NYC_Citibike_Challenge.ipynb)
 ___
 
 ## Results
@@ -48,7 +48,7 @@ The analysis shows that the optimal trip time is approximately 30 to 40 minutes.
 
 #### 2. Dashboard analysing the usage time
 
-![Usage Time Dashboard](https://github.com/fareenamughal/bikesharing/blob/d2c48f22611901c59f3145b5229a858b611e676a/Images/Dashboard_1_Trip_duration.png)
+![Usage Time Dashboard](https://github.com/fareenamughal/bikesharing/blob/10b5c10cb719578adf8dcd124ddd7c60cb278cc4/Images/Dashboard_2_Usage_time.png))
 
 
 
@@ -57,14 +57,14 @@ The analysis shows that the optimal trip time is approximately 30 to 40 minutes.
 
 #### 3. Dashboard analysing the top starting and ending locations
 
-![Location Dashboard](https://github.com/fareenamughal/bikesharing/blob/d2c48f22611901c59f3145b5229a858b611e676a/Images/Dashboard_1_Trip_duration.png)
+![Location Dashboard](https://github.com/fareenamughal/bikesharing/blob/10b5c10cb719578adf8dcd124ddd7c60cb278cc4/Images/Dashboard_3_Start_End_Locations.png)
 
 During the weekend,bike usage by the unknown geneder exceeds bike usage by males and females. 
 , with the largest user group being those of subscribers and males followed by females. M
 
 
 
-These results/visualizations, dashboard and story can be found in the tableau link here: [nyc_citibike_challenge Des Moines][(https://public.tableau.com/views/NYCCitibikeTripdataAug-2019/DesMoinesNYCCitibikeTripsAug-2019?:language=en-US&:display_count=n&:origin=viz_share_link)]
+
 ___
 
 ## Summary
