@@ -14,7 +14,7 @@ To begin with the data which was provided had to be wrangled. The tripduration h
 
 Thereafter, the data was uploaded into Tableau Public to generate the visualizations. A number of visualizations have been generated of which can be viewed in the Images folder. Three dashboards have been generated using the visualizations, each states a story and make up my Tableau story for thiwhich can be viewed as per link to my tableau dashboard below.
 
-[NYC Citibike Tripdata Aug-2019] (https://github.com/fareenamughal/bikesharing/blob/10b5c10cb719578adf8dcd124ddd7c60cb278cc4/NYC_Citibike_Challenge.ipynb)
+[NYC Citibike Tripdata Aug-2019](https://public.tableau.com/views/NYCCitibikeTripdataAug-2019/DesMoinesNYCCitibikeTripsAug-2019?:language=en-US&:display_count=n&:origin=viz_share_link)
 ___
 
 ## Results
