@@ -10,7 +10,9 @@ This bike trip analysis was carried out to assess the viability of the bike-shar
  
 Data for August 2019 has been used as this is the busiest period for bike sharing. 
 
-To begin with the data which was provided had to be wrangled. The tripduration had to be converted from sting to datetime type. If the questions did not specifically ask the gender data type be changed from integer to string in Tableau, I would have already made the change whilst cleaning up the file. The data cleanup was done using python/pandas code which was run and saved in jupyter notebook  
+To begin with the data which was provided had to be wrangled. The tripduration had to be converted from sting to datetime type. If the questions did not specifically ask the gender data type be changed from integer to string in Tableau, I would have already made the change whilst cleaning up the file. The data cleanup was done using python/pandas code which was run and saved in jupyter notebook.
+
+Thereafter, the data was uploaded into Tableau Public to generate the visualizations. A number of images 
 ___
 
 ## Results
