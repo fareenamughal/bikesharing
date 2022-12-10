@@ -29,6 +29,8 @@ ___
 ### A. Data cleaning
 ___
 
+The pandas/python code written to convert the trip duration from integer to datetime and then generate the revised trip duration csv file can be found as per link here: [nyc_citibike_challenge]([NYC_Citibike_Challenge.ipynb](https://github.com/fareenamughal/bikesharing/blob/main/NYC_Citibike_Challenge.ipynb)]
+
 Below are the results of the data cleaning changing the tripduration to datetime data type and eliminating the index column.
 
 ![Revised NYC Citibike csv](https://github.com/fareenamughal/bikesharing/blob/5082e0ac1987257a5e8bb1d4bd9399a949494e53/Images/screenshot_nyc_citibike_rev_csv_file.png)
@@ -42,18 +44,24 @@ Tableau has been used to provide visualizations supporting the analysis. Visuali
  #### 1. Dashboard for trip durating
 
 ![Trip Duration Dashboard](https://github.com/fareenamughal/bikesharing/blob/d2c48f22611901c59f3145b5229a858b611e676a/Images/Dashboard_1_Trip_duration.png)
-The analysis shows that the optimal trip time is approximately 30 to 40 minutes. The largest number of trips during the weekday occur between 4pm/5pm to 7pm  and 6am to 9am with males being the largest users followed by females. During the weekend the trips are spread out between 10am to 7pm. In different visualizations not included here, it can be seen that males make up approximately 5/8th of the total, whilst females make up a 1/4 and unknown gender approximately 1/8th of the total customers. 
+The analysis shows that the optimal trip time is approximately 30 to 40 minutes. The largest number of trips during the weekday occur between 4pm/5pm to 7pm  and 6am to 9am with males being the largest users followed by females. During the weekend the trips are spread out between 10am to 7pm. In another visualizations not included here, it can be seen that males make up approximately 5/8th of the total, whilst females make up a 1/4 and unknown gender approximately 1/8th of the total customers. 
+
+#### 2. Dashboard analysing the usage time
+
+![Usage Time Dashboard](https://github.com/fareenamughal/bikesharing/blob/d2c48f22611901c59f3145b5229a858b611e676a/Images/Dashboard_1_Trip_duration.png)
 
 
 
 
 
 
+#### 3. Dashboard analysing the top starting and ending locations
+
+![Location Dashboard](https://github.com/fareenamughal/bikesharing/blob/d2c48f22611901c59f3145b5229a858b611e676a/Images/Dashboard_1_Trip_duration.png)
 
 During the weekend,bike usage by the unknown geneder exceeds bike usage by males and females. 
 , with the largest user group being those of subscribers and males followed by females. M
 
-The pandas/python code written to convert the trip duration from integer to datetime and then generate the revised trip duration csv file can be found as per link here: [nyc_citibike_challenge]([NYC_Citibike_Challenge.ipynb](https://github.com/fareenamughal/bikesharing/blob/main/NYC_Citibike_Challenge.ipynb)]
 
 
 These results/visualizations, dashboard and story can be found in the tableau link here: [nyc_citibike_challenge Des Moines][(https://public.tableau.com/views/NYCCitibikeTripdataAug-2019/DesMoinesNYCCitibikeTripsAug-2019?:language=en-US&:display_count=n&:origin=viz_share_link)]
