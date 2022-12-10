@@ -42,7 +42,7 @@ ___
 #### 1. Dashboard for trip durating
 ___
 
-![Trip Duration Dashboard](https://github.com/fareenamughal/bikesharing/blob/5082e0ac1987257a5e8bb1d4bd9399a949494e53/Images/screenshot_nyc_citibike_rev_csv_file.png)
+![Trip Duration Dashboard](https://github.com/fareenamughal/bikesharing/blob/d2c48f22611901c59f3145b5229a858b611e676a/Images/Dashboard_1_Trip_duration.png))
 
 
 
