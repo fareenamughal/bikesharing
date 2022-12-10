@@ -29,7 +29,7 @@ ___
 ### A. Data cleaning
 ___
 
-The pandas/python code written to convert the trip duration from integer to datetime and then generate the revised trip duration csv file can be found as per link here: [nyc_citibike_challenge]([NYC_Citibike_Challenge.ipynb](https://github.com/fareenamughal/bikesharing/blob/main/NYC_Citibike_Challenge.ipynb)]
+The pandas/python code written to convert the trip duration from integer to datetime and then generate the revised trip duration csv file can be found as per link here: [NYC Citibike Challenge python code]([NYC_Citibike_Challenge.ipynb](https://github.com/fareenamughal/bikesharing/blob/main/NYC_Citibike_Challenge.ipynb)]
 
 Below are the results of the data cleaning changing the tripduration to datetime data type and eliminating the index column.
 
@@ -39,21 +39,24 @@ ___
 ### B. Analysing and generating the visualization using tableau to support the story
 ___
 
-Tableau has been used to provide visualizations supporting the analysis. Visualizations are a powerful tool to say a story. I have analysed the data abd providded my findings via three tableau dashboards, each focusing on a specific area.
+Tableau has been used to provide visualizations supporting the analysis. Visualizations are a powerful tool to say a story. I have analysed the data abd providded my findings via three tableau dashboards, each focuses on a specific area.
 
  #### 1. Dashboard for trip durating
 
 ![Trip Duration Dashboard](https://github.com/fareenamughal/bikesharing/blob/d2c48f22611901c59f3145b5229a858b611e676a/Images/Dashboard_1_Trip_duration.png)
-The analysis shows that the optimal trip time is approximately 30 to 40 minutes. The largest number of trips during the weekday occur between 4pm/5pm to 7pm  and 6am to 9am with males being the largest users followed by females. During the weekend the trips are spread out between 10am to 7pm. In another visualizations not included here, it can be seen that males make up approximately 5/8th of the total, whilst females make up a 1/4 and unknown gender approximately 1/8th of the total customers. 
+The analysis shows that the optimal trip time is approximately 30 to 40 minutes. The largest number of trips during the weekday occur between 4pm/5pm to 7pm  and 6am to 9am. During the weekend the trips are spread out between 10am to 7pm. 
+Males are the largest users followed by females and unknowns respectively.
 
 #### 2. Dashboard analysing the usage time
 
 ![Usage Time Dashboard](https://github.com/fareenamughal/bikesharing/blob/10b5c10cb719578adf8dcd124ddd7c60cb278cc4/Images/Dashboard_2_Usage_time.png))
+This visualtization supports the heavy usage time of 4pm/5pm to 7pm  and 6am to 9am as seen in the trip duration visualization. However, here we take a deeper dive into the breakdown between males, females & unknowns as well as we analyse the usage based on the day of the week. It is clear that males are the larges user group, their usage is heavier on Thursdays and Fridays and Mondays and Tuesday. 
 
+For females, heaviest usage periods are around 8am and 5-6pm during weekdays, 12pm to 5pm on Sundays & 10am to 6pm on Saturdays. Females use bikes more on Thursdays, followed by Tuesdays and Mondays.
 
+The unknowns use bikes more during the weekends with Saturday 10am to 7pm being the busiest, followed by Sundays at 11am to 5pm. During the week days 5pm to 6pm is when unknowns use bikes with Thursdays and Fridays being slightly busier followed by Mondays and Tuesdays.
 
-
-
+In another visualizations not included here, it can be seen that males make up approximately 5/8th of the total, whilst females make up a 1/4 and unknown gender approximately 1/8th of the total customers.
 
 #### 3. Dashboard analysing the top starting and ending locations
 
