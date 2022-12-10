@@ -20,8 +20,9 @@ ___
 ## Results
 ___
 
-To begin with below are the results of the data cleaning changing the tripduration to datetime data type and eliminating the index column.
+Results can be divided into two sections:
 
+Below are the results of the data cleaning changing the tripduration to datetime data type and eliminating the index column.
 
 ![Revised NYC Citibike csv](https://github.com/fareenamughal/bikesharing/blob/5082e0ac1987257a5e8bb1d4bd9399a949494e53/Images/screenshot_nyc_citibike_rev_csv_file.png)
 
