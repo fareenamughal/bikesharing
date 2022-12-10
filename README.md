@@ -12,7 +12,9 @@ Data for August 2019 has been used as this is the busiest period for bike sharin
 
 To begin with the data which was provided had to be wrangled. The tripduration had to be converted from sting to datetime type. If the questions did not specifically ask the gender data type be changed from integer to string in Tableau, I would have already made the change whilst cleaning up the file. The data cleanup was done using python/pandas code which was run and saved in jupyter notebook.
 
-Thereafter, the data was uploaded into Tableau Public to generate the visualizations. A number of images 
+Thereafter, the data was uploaded into Tableau Public to generate the visualizations. A number of visualizations have been generated of which can be viewed in the Images folder. Three dashboards have been generated using the visualizations, each states a story and make up my Tableau story for thiwhich can be viewed as per link to my tableau dashboard below.
+
+[NYC Citibike Tripdata Aug-2019](https://public.tableau.com/views/NYCCitibikeTripdataAug-2019/Des_Moines_Nyc_Citibike_trip-start-end?:language=en-US&:display_count=n&:origin=viz_share_link)
 ___
 
 ## Results
