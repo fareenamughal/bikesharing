@@ -47,7 +47,9 @@ Tableau has been used to provide visualizations supporting the analysis. Visuali
 The analysis shows that the optimal trip time is approximately 30 to 40 minutes. The largest number of trips during the weekday occur between 4pm/5pm to 7pm  and 6am to 9am. During the weekend the trips are spread out between 10am to 7pm. 
 Males are the largest users followed by females and unknowns respectively.
 
+
 #### 2. Dashboard analysing the usage time
+
 
 ![Usage Time Dashboard](https://github.com/fareenamughal/bikesharing/blob/10b5c10cb719578adf8dcd124ddd7c60cb278cc4/Images/Dashboard_2_Usage_time.png))
 This visualtization supports the heavy usage time of 4pm/5pm to 7pm  and 6am to 9am as seen in the trip duration visualization. However, here we take a deeper dive into the breakdown between males, females & unknowns as well as we analyse the usage based on the day of the week. It is clear that males are the larges user group, their usage is heavier on Thursdays and Fridays and Mondays and Tuesday. 
